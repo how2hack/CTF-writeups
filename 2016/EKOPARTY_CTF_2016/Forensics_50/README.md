@@ -22,7 +22,9 @@ The file is protected, so I can't view it, but doing some trick will help.
 2) find the file workbook.xml in CALCULATOR/xl/ directory
 ```
 notice that there is a line
-><sheet r:id="rId2" sheetId="2" name="ANSWER" state="hidden"/>
+```
+<sheet r:id="rId2" sheetId="2" name="ANSWER" state="hidden"/>
+```
 ```
 3) remove state="hidden" and save the file
 4) change the file extension back to .xlsm
