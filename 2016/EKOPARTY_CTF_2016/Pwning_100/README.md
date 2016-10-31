@@ -21,6 +21,7 @@ Invalid key: aaaa (nil) 0xa (nil) (nil) (nil) 0xa (nil) 0x454b4f7b 0x4c614269 0x
 
 So, this hex is the secret key (flag):
 >454b4f7b4c614269674265663072647d
+
 >EKO{LaBigBef0rd}
 
 Flag:
