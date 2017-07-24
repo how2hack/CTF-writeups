@@ -1,8 +1,8 @@
-#AIS3 Pre-exam 2017: rev2
+# AIS3 Pre-exam 2017: rev2
 
 ![rev2](rev2.png)
 
-##Solution
+## Solution
 The binary uses srand(time(0)), which is a random generator and can be guessed if we know what the seed is.
 The binary says it execute the program at UTC+8 2017/6/26, so we know the seed is around UTC+8 2017/6/26 to UTC+8 2017/6/27 (Unix time: 1498406400 ~ 1498492800)
 Brute force to find the correct seed (which is 1498422148), then we can decrypt the flag.

@@ -1,8 +1,8 @@
-#AIS3 Pre-exam 2017: crypto2
+# AIS3 Pre-exam 2017: crypto2
 
 ![crypto2](crypto2.png)
 
-##Solution
+## Solution
 ECB mode is vulnerable to cut-and-paste attack.
 Create the following 2 tokens:
 

@@ -1,8 +1,8 @@
-#AIS3 Pre-exam 2017: web3
+# AIS3 Pre-exam 2017: web3
 
 ![web3](web3.png)
 
-##Solution
+## Solution
 I solved this before... In final ctf of my course, but with some variation now.
 This site is vulnerable to wrapper lfi injection.
 > https://quiz.ais3.org:23545/?p=php://filter/convert.base64-encode/resource=index

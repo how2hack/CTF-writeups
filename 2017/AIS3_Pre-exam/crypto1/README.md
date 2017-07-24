@@ -1,8 +1,8 @@
-#AIS3 Pre-exam 2017: crypto1
+# AIS3 Pre-exam 2017: crypto1
 
 ![crypto1](crypto1.png)
 
-##Solution
+## Solution
 The given .cpp file contains the information how the flag is encrypted.
 Constraint:
 1.	val1 and val2 are 9 digits numbers, val3 is 7 digits number, val4 is 6 digits number.

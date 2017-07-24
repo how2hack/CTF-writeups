@@ -1,8 +1,8 @@
-#AIS3 Pre-exam 2017: rev3
+# AIS3 Pre-exam 2017: rev3
 
 ![rev3](rev3.png)
 
-##Solution
+## Solution
 This challenge is fun :D
 The binary first ask for 17 inputs, then perform a lot of operations.
 It will decrypt the flag if you give the correct inputs.

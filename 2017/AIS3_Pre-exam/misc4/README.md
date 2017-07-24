@@ -1,8 +1,8 @@
-#AIS3 Pre-exam 2017: misc4
+# AIS3 Pre-exam 2017: misc4
 
 ![misc4](misc4.png)
 
-##Solution
+## Solution
 Connect to the ssh server and we have a bash with limited function.
 It has 3 files: flag, shell.c, shell
 We don't have permission to read flag, but we can execute the binary to perform system().

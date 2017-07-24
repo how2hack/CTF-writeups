@@ -1,8 +1,8 @@
-#AIS3 Pre-exam 2017: crypto4
+# AIS3 Pre-exam 2017: crypto4
 
 ![crypto4](crypto4.png)
 
-##Solution
+## Solution
 For the next stage, we have to give "username" and "password" under this constraints:
 1.	"username" must contains "Snoopy_do_not_like_cats_hahahaha"
 2.	"password" must contains "ddaa_is_PHD"

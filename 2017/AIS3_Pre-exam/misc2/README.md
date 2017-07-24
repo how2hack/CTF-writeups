@@ -1,8 +1,8 @@
-#AIS3 Pre-exam 2017: misc2
+# AIS3 Pre-exam 2017: misc2
 
 ![misc2](misc2.png)
 
-##Solution
+## Solution
 The source code contains a commented line which turn out to be a misdirection.
 ```html
 I've sent you something :)<html>

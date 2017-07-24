@@ -1,8 +1,8 @@
-#AIS3 Pre-exam 2017: web4
+# AIS3 Pre-exam 2017: web4
 
 ![web4](web4.png)
 
-##Solution
+## Solution
 Continue from web3...
 Use the same approach to get the uploaddddddd.php source code.
 It let us upload only .jpg file, but with this we can upload a file to perform RCE.

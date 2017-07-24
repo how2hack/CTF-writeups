@@ -1,8 +1,8 @@
-#AIS3 Pre-exam 2017: crypto3
+# AIS3 Pre-exam 2017: crypto3
 
 ![crypto3](crypto3.png)
 
-##Solution
+## Solution
 SHA1 collision, we can use the 2 collision files provided by Google to pass this stage.
 
 ```python

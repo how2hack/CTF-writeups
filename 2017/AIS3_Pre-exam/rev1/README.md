@@ -1,8 +1,8 @@
-#AIS3 Pre-exam 2017: rev1
+# AIS3 Pre-exam 2017: rev1
 
 ![rev1](rev1.png)
 
-##Solution
+## Solution
 I use ollydbg to reverse the binary.
 There is a _print_flag function in the binary, which execute secretly but not printed out.
 So use ollydbg to jump to that function (0x401500) and we can see the flag.
